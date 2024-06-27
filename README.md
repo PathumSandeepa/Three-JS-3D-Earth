@@ -18,7 +18,7 @@
   </ul>
 
   <h2>📺 Live Demo</h2>
-  <p>Check out the live demo on GitHub Pages: <a class="link" href="https://github.com/PathumSandeepa/Three-JS-3D-Earth/settings/pages" target="_blank">Three.js 3D Earth Demo</a></p>
+  <p>Check out the live demo on GitHub Pages: <a class="link" href="https://pathumsandeepa.github.io/Three-JS-3D-Earth/" target="_blank">Three.js 3D Earth Demo</a></p>
 
   <h2>📂 Repository</h2>
   <p>Explore the source code on GitHub: <a class="link" href="https://github.com/PathumSandeepa/Three-JS-3D-Earth" target="_blank">Three.js 3D Earth Repo</a></p>
